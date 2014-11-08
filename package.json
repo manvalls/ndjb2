@@ -1,0 +1,21 @@
+{
+  "name": "ndjb2",
+  "version": "0.0.0",
+  "description": "A djb2 based, non cryptographic, [0-1) returning hash",
+  "main": "main.js",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/manvalls/ndjb2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manvalls/ndjb2/issues"
+  },
+  "author": "Manuel Valls Fernández <manolo@chatiku.com>",
+  "license": "LGPL-3.0"
+}
