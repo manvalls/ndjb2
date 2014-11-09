@@ -1,14 +1,10 @@
 {
   "name": "ndjb2",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A djb2 based, non cryptographic, [0-1) returning hash",
   "main": "main.js",
-  "dependencies": {
-    
-  },
-  "devDependencies": {
-    
-  },
+  "dependencies": {},
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git://github.com/manvalls/ndjb2.git"
