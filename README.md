@@ -13,5 +13,7 @@ No piece of software is ever completed, feel free to contribute and be humble.
 ```javascript
 var ndjb2 = require('ndjb2'),
     foo = ndjb2('bar');
+
+console.log(foo); // 0.04504971066489816
 ```
 
